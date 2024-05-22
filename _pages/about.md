@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a post-doctoral researcher at the Max Planck Institute for Meteorology (Hamburg, Germany)
+Post-doctoral researcher at the Max Planck Institute for Meteorology (Hamburg, Germany)
 
 ## Research interests
 
