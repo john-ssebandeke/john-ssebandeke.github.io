@@ -1,17 +1,10 @@
 ---
-layout: archive
-title: "Training"
-permalink: /training/
-author_profile: true
----
-
----
 permalink: /training/
 title: "Training"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /training/
+  - /training.html
 ---
 
 ## May 2024 - Present
