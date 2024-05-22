@@ -4,6 +4,8 @@ title: "Training"
 permalink: /training/
 author_profile: true
 ---
+{% include base_path %}
+
 ## May 2024 - Present
 **Title:** Postdoc
 
