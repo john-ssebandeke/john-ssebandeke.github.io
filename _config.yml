@@ -21,11 +21,11 @@ repository               : "john-ssebandeke/john-ssebandeke.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "csm_154_portrait_99ecca4664.jpg"
+  name             : "John Ssebandeke"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Hamburg, DE"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
