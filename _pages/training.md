@@ -5,9 +5,6 @@ permalink: /training/
 author_profile: true
 ---
 
-| May 2024 | Title: Postdoc
-
-
   * **May 2024 - Present**
     
      **Title:** Postdoc
@@ -15,6 +12,8 @@ author_profile: true
     **Institute:** Max-Planck-Institut für Meteorologie.
 
     **Location:** Hamburg, Germany
+    
+    --------------------------------------------------------------------------------
 
 * **May 2020 - May 2024**
   
@@ -24,6 +23,8 @@ author_profile: true
 
   **Location:** Hamburg, Germany
 
+   --------------------------------------------------------------------------------
+
 * **Aug 2019 - May 2020**
   
   **Title:** Research assistant
@@ -31,6 +32,8 @@ author_profile: true
   **Institute:** The Abdus Salam International Centre for Theoretical Physics
 
   **Location:** Trieste, italy
+
+   --------------------------------------------------------------------------------
 
 * **Aug 2018 - Aug 2019**
   
@@ -40,6 +43,8 @@ author_profile: true
 
   **Location:** Trieste, italy
 
+   --------------------------------------------------------------------------------
+
 * **Aug 2016 - Aug 2018**
   
   **Title:** MSc Physics
@@ -47,6 +52,8 @@ author_profile: true
   **Institute:** Makerere University
 
   **Location:** Kampala, Uganda
+
+   --------------------------------------------------------------------------------
 
 * **Aug 2012 - Aug 2016**
   
