@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download CV](https://academicpages.github.io/files/cv.pdf)
+[Download CV](https://john-ssebandeke.github.io/files/cv.pdf/)
