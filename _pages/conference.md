@@ -10,4 +10,5 @@ author_profile: true
 * Waves and mean flow, Bornö (2022)
 * Eddies and waves, Hamburg (2021)
 * Summer School on Oceanic Eastern Boundary Upwelling Systems, Trieste (2019)
+* The African School of Fundamental Physics and Applications, Windhoek (2018)
 
