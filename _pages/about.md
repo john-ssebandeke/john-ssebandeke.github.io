@@ -18,4 +18,5 @@ Post-doctoral researcher at Max Planck Institute for Meteorology (Hamburg, DE)
 
 ## Other interests    
   * Research management
+  * Painting and classical music
 
