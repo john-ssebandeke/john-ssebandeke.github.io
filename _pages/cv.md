@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+https://academicpages.github.io/files/paper3.pdf
+
 {% include base_path %}
 
 Education
