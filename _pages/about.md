@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Post-doctoral researcher 
-
-Max Planck Institute for Meteorology
-
-Hamburg, DE
+Post-doctoral researcher at Max Planck Institute for Meteorology (Hamburg, DE)
 
 ## Research interests
 
