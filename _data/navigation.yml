@@ -1,7 +1,10 @@
 # main links links
 main:
 
-  - title: ""
+  - title: "  "
+    url: #/training/
+
+  - title: "  "
     url: #/training/
 
   - title: "Training"
