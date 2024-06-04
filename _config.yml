@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Oceanographer"
   location         : "Hamburg, DE"
-  employer         : "Max-Planck-Institut für Meteorologie"
+  employer         : # "Max-Planck-Institut für Meteorologie"
   uri              : # URL
   email            : "johnssebandeke@gmail.com" 
 
