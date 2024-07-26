@@ -19,5 +19,5 @@ Post-doctoral researcher at [Max Planck Institute for Meteorology](https://mpime
 
 ## Other interests    
   * Research management
-  * Painting and classical music
+  * Painting, photography and classical music
 
