@@ -18,6 +18,7 @@ Post-doctoral researcher at [Max Planck Institute for Meteorology](https://mpime
   * Climate variability and predictability
 
 ## Other interests    
-  * Research Service
-  * Painting, photography and classical music
+  * Classical music
+  * Research service
+  * Painting & photography
 
