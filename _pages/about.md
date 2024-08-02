@@ -11,8 +11,8 @@ Post-doctoral researcher at [Max Planck Institute for Meteorology](https://mpime
 
 ## Research interests
   * Energetics
-  * Human-climate dynamics
   * Multi-scale interactions
+  * Human-climate dynamics
   * High resolution modelling
   * Climate variability and predictability
 
