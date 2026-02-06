@@ -5,6 +5,10 @@ permalink: /conference/
 author_profile: true
 ---
 
+* Ocean sciences, Glasgow (2026)
+* Research expedition on board the R/V Maria S. Merian (2026)
+* EGU conference, Vienna (2025)
+* AGU conference, Washington D.C (2024)
 * Ocean Science, Online (2022)
 * Ocean Transport and Eddy Energy, Boulder (2022)
 * Waves and mean flow, Bornö (2022)
